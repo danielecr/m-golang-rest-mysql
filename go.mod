@@ -1,4 +1,4 @@
-module github.com/nsa-golang-rest-mysql
+module github.com/danielecr/nsa-golang-rest-mysql
 
 go 1.22.6
 

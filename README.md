@@ -24,4 +24,5 @@ apart from consuming message from a message broker.
 
 ## Folder structure
 
-`model/` contains the module that access 
+`model/` contains the module that access the db
+`config/` contains module first init()'ed when service go up and running, so the db connection
