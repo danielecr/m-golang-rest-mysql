@@ -1,4 +1,4 @@
-# NSA-Golang-rest-mysql: Not Splitting Atom Golang REST MySQL
+# M-Golang-rest-mysql: Minimalist Golang REST MySQL
 
 The aim here is to make a small, simple, and easy to plug REST service with access to mysql for
 data.
@@ -26,3 +26,15 @@ apart from consuming message from a message broker.
 
 `model/` contains the module that access the db
 `config/` contains module first init()'ed when service go up and running, so the db connection
+
+
+## Other resources (and inspirations)
+
+
+https://github.com/boantp/go-mysql-rest-api
+https://github.com/Kivanc10/golang-rest-api-with-mysql
+https://github.com/Fikri1234/CRUD_REST_MUX_MySQL
+https://github.com/phathv/simple-restful-api-with-golang-mysql
+https://github.com/wisnuuakbr/simple-rest-api-go
+https://github.com/kelvins/GoApiTutorial
+https://github.com/omjigupta/golang-gin-restapi-mysql

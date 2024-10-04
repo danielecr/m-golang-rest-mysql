@@ -27,6 +27,7 @@ func Db() *sql.DB {
 	return db
 }
 
+// init function to initialize the DB when the package is loaded
 func init() {
 	DB = Db()
 }
